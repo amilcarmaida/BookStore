@@ -1,2 +1,2 @@
 # BookStore
-Git repository of Book Store. This is the begining.
+Git begining the repository of Book Store. Start coding the functionality and access to database.
